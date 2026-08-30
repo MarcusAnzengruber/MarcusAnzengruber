@@ -1,1 +1,2 @@
 Temporary trigger for the Chess.com public-data export on 2026-08-30.
+Refresh requested after initial snapshot validation.
